@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=twitter_ios_starter/Twitter2.gif title='Video Walkthrough' width=250><br>
+<img src=Twitter2.gif title='Video Walkthrough' width=250><br>
 
 # Twitter - Part I
 
@@ -47,5 +47,5 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-<img src=twitter_ios_starter/twitter.gif title='Video Walkthrough' width=250><br>
+<img src=twitter.gif title='Video Walkthrough' width=250><br>
 
